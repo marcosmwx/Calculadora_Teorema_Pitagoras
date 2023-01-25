@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Func from "../func";
-import { Calculados } from "../post/calculados";
+import { Calculados } from "../post/index";
 
 function Receptores() {
   const [h, seth] = useState("");
