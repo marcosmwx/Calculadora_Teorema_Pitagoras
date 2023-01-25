@@ -18,6 +18,8 @@ API simples utilizando Python3 (com Django)  com endpoints GET e POST a ser cons
 Este projeto é capaz de calcular a relação entre os lados de um triângulo retângulo, para ter sucesso preencha o campo que voce deseja obter a resposta como 0 e os dois outros campos com as informações necessarias.
 Clique em "RESULTADO" voce terá todo o processo do calculo do Teorema de Pitágoras.
 
+Para iniciar o servidor voce poderá abrir o backend na pasta "Teorema_django" e iniciar com os comandos de Python
+
 ![Captura de tela 2023-01-25 170225](https://user-images.githubusercontent.com/87791042/214691313-321e11ed-fb8a-4969-877f-c6170d959d82.png)
 ![Captura de tela 2023-01-25 170256](https://user-images.githubusercontent.com/87791042/214691357-92a262a7-7c86-405e-8ac0-44358b989c82.png)
 ![Captura de tela 2023-01-25 170336](https://user-images.githubusercontent.com/87791042/214691394-a879f88e-9135-403d-b6b1-fce8beb612e6.png)
