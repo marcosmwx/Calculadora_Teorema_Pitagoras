@@ -6,10 +6,9 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-image: url('../public/Captura\ de\ tela\ 2023-01-25\ 154852.png');
+  background-image: url("../public/fundo.png");
   background-repeat: no-repeat;
   background-size: cover;
-
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -71,15 +70,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-form{
+form {
   display: flex;
   justify-content: space-evenly;
 }
-.input{
-	width: 50%;
-	margin: 0 auto;
-	padding: 10px;
-	border: none;
-	margin-bottom: 10px;
-	border-radius: 50px;
+.input {
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 50px;
 }
