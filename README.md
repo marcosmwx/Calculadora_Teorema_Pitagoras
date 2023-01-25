@@ -1,2 +1,2 @@
 # Calculadora_Teorema_Pitagoras
-Case | Estágio em Desenvolvimento Backend | Projeto Space Cromai 
+2º Etapa | Case | Estágio em Desenvolvimento Backend | Projeto Space Cromai 
